@@ -1,65 +1,32 @@
-# Writing on discord
-_ _ 👉invisible
+||text||
 <br>
+**text**
+<br>
+*text*
+<br>
+__text__
 
-~~text~~ 👉scratched
-<br>
-
-*test*
-<br>
-
-**text** 👉bold
-<br>
-
-||text|| 👉hidden
-<br>
-
-__text__ 👉risk underneath
-<br>
-
-`text`
-<br>
+#
 
 > text
+``` text
 
-#
-
-``` 
-
-``` 
-
-#
-
+```
 ```diff
--text - red
+-text 
 ```
-
-#
-
 ```css
-[text - orange] 
+[text]
 ```
-
-#
-
 ```fix
-text - yellow
+text
 ```
-
-#
-
 ```css
-.text - blue and green
+.text
 ```
-
-#
-
 ```diff
-+ text - green
++ text
 ```
-
-#
-
 ```bash
-"text - cian"
+"text"
 ```
